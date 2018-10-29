@@ -1,0 +1,8 @@
+﻿  소스.c
+c:\users\imseonho\source\repos\181018_practice2\181018_practice2\소스.c(14): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 '__int64'입니다.
+  c:\users\imseonho\source\repos\181018_practice2\181018_practice2\소스.c(14): note: 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+  c:\users\imseonho\source\repos\181018_practice2\181018_practice2\소스.c(14): note: 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+c:\users\imseonho\source\repos\181018_practice2\181018_practice2\소스.c(15): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 '__int64'입니다.
+  c:\users\imseonho\source\repos\181018_practice2\181018_practice2\소스.c(15): note: 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+  c:\users\imseonho\source\repos\181018_practice2\181018_practice2\소스.c(15): note: 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+  181018_practice2.vcxproj -> C:\Users\Imseonho\source\repos\181018_practice2\Debug\181018_practice2.exe
